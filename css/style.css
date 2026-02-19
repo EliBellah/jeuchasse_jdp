@@ -96,7 +96,7 @@ iframe{
 }
 
 #img1 >img{
-    width: 130%;
+    width: 143%;
 }
 
 #img2{
@@ -105,7 +105,7 @@ iframe{
 }
 
 #img2 >img{
-    width: 130%;
+    width: 143%;
 }
 
 #img3{
@@ -114,16 +114,34 @@ iframe{
 }
 
 #img3 >img{
-    width: 130%;
+    width: 143%;
 }
 
 #img4{
-    top: 4px;
-    left: 60px;
+    top: -50px;
+    left: 200px;
 }
 
 #img4 >img{
-    width: 100%;
+    width: 143%;
+}
+
+#img5{
+    top: -50px;
+    left: 200px;
+}
+
+#img5 >img{
+    width: 143%;
+}
+
+#img6{
+    top: -50px;
+    left: 200px;
+}
+
+#img6 >img{
+    width: 143%;
 }
 
 .pagesConteneur{
@@ -132,6 +150,7 @@ iframe{
     position: absolute;
     top: 0px;
 }
+
 
 
 
